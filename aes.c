@@ -2,6 +2,8 @@
  * 
  * AES 128 CBC Mode implemented using Intrinsic AES instructions _mm_aes*
  * 
+ * Tested with 64Bytes file size
+ * 
  */
 
 
